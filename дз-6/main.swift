@@ -55,3 +55,4 @@ let amountInCurrency: Double = 5000
 let amountInDollars = convertToDollar(amountInCurrency)
 print(amountInDollars)
 
+print("new code")
